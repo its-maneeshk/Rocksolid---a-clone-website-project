@@ -5,26 +5,21 @@ This a clone website project made for learning purpose of HTML, CSS &amp; javasc
 
 Here are some screenshots.:
 
-1. **Project Stracture**:
-   ![Project Stracture](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/ProjectStracture.png)
+1. **Home Section**:
+   ![Home Section](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-1.png)
 
-2. **SQL Dtatabase Schema**:
-   ![SQL Database Schema](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/SQL_schema.png)
+2. **About Section**:
+   ![About Section](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-2.png)
    
-3. **Admin Login**: 
-   ![Admin Login](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/AdminLogIn.png)
+3. **Section 3**: 
+   ![Section 3](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-3.png)
+4. **Section 4**: 
+   ![Section 4](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-4.png)
+5. **Section 5**: 
+   ![Section 5](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-5.png)
+6. **Section 6**: 
+   ![Section 6](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-6.png)
    
-4. **Admin Log Out**:
-   ![Admin Log Out](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/AdminLogOut.png)
-   
-5. **Customer Login**:
-   ![Customer Login](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/CustomerLogIn.png)
-   
-6. **Customer Log Out**:
-   ![Customer Log Out](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/CustomerLogOut.png)
-   
-7. **Customer Sign Up**:
-   ![Customer Sign up](https://github.com/its-maneeshk/.assets/blob/c551a82a2b2b69c9d796a0b6e35f6533a5c9a5f7/HotelManagementSystemUsingJDBC_Demo-images/CustomerLogOut.png)
 
 
 
