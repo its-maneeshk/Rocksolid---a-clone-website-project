@@ -19,7 +19,7 @@ Here are some screenshots.:
 3. **Section 3**: 
    ![Section 3](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-3.png)
 4. **Section 4**: 
-   ![Section 4](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-4.png)
+   ![Section 4](https://github.com/its-maneeshk/.assets/blob/f4978191ff5db1e859c77acdbc46e75ea3b85e61/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-4.png)
 5. **Section 5**: 
    ![Section 5](https://github.com/its-maneeshk/.assets/blob/03458a309858a925fbce4ff3024ca50d225b3c81/Rocksolid---a-clone-website-project_Demo-images/Rocksolid_demo_image-5.png)
 6. **Section 6**: 
