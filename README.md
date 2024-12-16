@@ -1,6 +1,11 @@
 # Rocksolid---a-clone-website-project
 This a clone website project made for learning purpose of HTML, CSS &amp; javascript.
 
+### Acknowledgment
+This project is inspired by the **[RockSolid Website](https://rocksolid.oceanwp.org/?_gl=1%2A1tg79xo%2A_ga%2AMTI3Mzc0NDk3NC4xNzM0MTAyNjQz%2A_ga_LCTYVQKHNC%2AMTczNDEwMjY0Mi4xLjAuMTczNDEwMjY0Mi42MC4wLjA.)**.  
+All rights to the original design and content belong to their respective owners.
+
+
 # Demo Images 
 
 Here are some screenshots.:
